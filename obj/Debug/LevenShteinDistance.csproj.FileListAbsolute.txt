@@ -1,0 +1,7 @@
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\bin\Debug\LevenShteinDistance.exe.config
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\bin\Debug\LevenShteinDistance.exe
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\bin\Debug\LevenShteinDistance.pdb
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\obj\Debug\LevenShteinDistance.csprojAssemblyReference.cache
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\obj\Debug\LevenShteinDistance.csproj.CoreCompileInputs.cache
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\obj\Debug\LevenShteinDistance.exe
+C:\Users\nvta1\Desktop\Python\LevenShteinDistance\obj\Debug\LevenShteinDistance.pdb
