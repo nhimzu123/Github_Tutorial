@@ -28,10 +28,6 @@ namespace LevenShteinDistance
             } while (b <= a);
 
             int n = b - a + 1; // Tong so mau!
-
-
-
-
             Console.ReadLine();
 
 
